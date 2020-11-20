@@ -24,7 +24,7 @@
     <ProjectGuid>{bc89b4f6-578b-4dec-9786-491e9f88985e}</ProjectGuid>
     <RootNamespace>OneAppli</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>01 Basic</ProjectName>
+    <ProjectName>01_Basic</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
